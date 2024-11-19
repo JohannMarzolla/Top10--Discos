@@ -1,0 +1,21 @@
+.contanier {
+    display: flex;
+    width: 100%;
+    padding : 80px 80px;
+    background-color: #BBABA1;
+    border-radius: 50px;
+   
+}
+
+@media (max-width: 900px) {
+    .contanier  {
+      padding: 80px 60px;
+    }
+  }
+
+@media (max-width: 600px) {
+    .contanier  {
+      padding: 80px 40px;
+    }
+
+  }

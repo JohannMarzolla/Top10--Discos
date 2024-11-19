@@ -1,0 +1,9 @@
+.galeria {
+    display: flex;
+    flex-direction: column;
+    width: 100%; /* Garante que a galeria ocupe toda a largura disponível */
+    gap: 60px;
+    
+    
+}
+

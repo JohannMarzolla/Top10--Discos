@@ -1,0 +1,19 @@
+.container {
+    width: 100%;
+    overflow: hidden;
+    display: flex; /* Adiciona flex para o layout do banner */
+    justify-content: center; /* Centraliza a imagem horizontalmente */
+    position: relative; /* Para garantir que o banner esteja acima do menu lateral */
+    z-index: 1; /* Garante que o banner fique acima do menu lateral */
+}
+
+.banner {
+    width: 100%;
+    height: 300px; /* Tamanho fixo para garantir consistência */
+    object-fit: cover;
+    border-radius: 50px;
+    margin-bottom: 20px; /* Espaçamento consistente abaixo do banner */
+}
+
+
+

@@ -1,0 +1,33 @@
+/* GaleriaImagens.module.css */
+
+.container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 300px;
+}
+
+.carrosel {
+ 
+  display: flex;
+  gap: 28px;
+  border-radius: 7px;
+  padding:3px;
+  overflow-x: auto;
+  scroll-behavior: smooth; /* Para uma rolagem suave */
+  -webkit-overflow-scrolling: touch; /* Para uma rolagem suave em dispositivos móveis */
+}
+
+.carrosel::-webkit-scrollbar {
+  display: none; /* Esconde a barra de rolagem */
+}
+.divButton{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 20px;
+  margin-left: 10px ;
+ 
+}
+

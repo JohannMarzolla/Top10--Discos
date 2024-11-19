@@ -1,0 +1,208 @@
+{
+    "historia": [
+        {
+            "id": 1,
+            "titulo": "Thriller",
+            "descricao": "Thriller não é apenas o álbum mais vendido de todos os tempos, mas também um marco cultural que definiu a era do videoclipe. Com músicas icônicas como Billie Jean, Beat It e a faixa-título Thriller, Michael Jackson estabeleceu novos padrões para a música pop, combinando elementos de funk, rock, R&B e música eletrônica. O álbum também é conhecido por seu videoclipe revolucionário, que trouxe à tona a popularidade dos vídeos musicais como uma forma de arte.",
+            "ano": 1982,
+            "genero": "Pop",
+            "autor": "Michael Jackson",
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Michael_Jackson_-_Thriller.jpg/220px-Michael_Jackson_-_Thriller.jpg",
+            "link": "https://www.youtube.com/embed/KqUp1uFkDF4"
+        },
+        {
+            "id": 2,
+            "titulo": "Back in Black",
+            "descricao": "Back in Black é uma celebração da vida e da música após a morte do vocalista Bon Scott. Com Brian Johnson assumindo os vocais, AC/DC lançou um dos álbuns mais emblemáticos da história do rock. A faixa-título, Back in Black, e outros sucessos como Hells Bells e You Shook Me All Night Long continuam a ser hinos do rock até hoje.",
+            "ano": 1980,
+            "genero": "Rock",
+            "autor": "AC/DC",
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/4/45/Back_In_Black.png",
+            "link": "https://www.youtube.com/embed/pAgnJDJN4VA"
+        },
+        {
+            "id": 3,
+            "titulo": "The Dark Side of the Moon",
+            "descricao": "The Dark Side of the Moon é uma obra-prima progressiva que explora temas como loucura, morte e o conflito humano. Com faixas como Time, Money e Us and Them, o álbum transcende o gênero rock e se tornou um dos trabalhos mais influentes da música.",
+            "ano": 1973,
+            "genero": "Rock Progressivo",
+            "autor": "Pink Floyd",
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d4/Dark_Side_of_the_Moon.png/220px-Dark_Side_of_the_Moon.png",
+            "link": "https://www.youtube.com/embed/DLOth-BuCNY"
+        },
+        {
+            "id": 4,
+            "titulo": "The Bodyguard (Trilha Sonora)",
+            "descricao": "A trilha sonora do filme The Bodyguard não só lançou Whitney Houston ao estrelato absoluto, mas também se tornou uma das trilhas sonoras mais vendidas de todos os tempos. A poderosa interpretação de I Will Always Love You se tornou uma das baladas mais icônicas da história da música.",
+            "ano": 1992,
+            "genero": "Pop/R&B",
+            "autor": "Whitney Houston",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/7/74/TheBodyguardSoundtrack.jpg",
+            "link": "https://www.youtube.com/embed/3JWTaaS7LdU"
+        },
+        {
+            "id": 5,
+            "titulo": "Bat Out of Hell",
+            "descricao": "Bat Out of Hell é um álbum teatral, cheio de energia e paixão, que mistura rock, ópera e drama. Com faixas épicas como Bat Out of Hell e Paradise by the Dashboard Light, o álbum tornou-se um marco no rock e uma obra-prima atemporal.",
+            "ano": 1977,
+            "genero": "Rock",
+            "autor": "Meat Loaf",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/5/5c/Bat_out_of_Hell.jpg",
+            "link": "https://www.youtube.com/embed/_wO8toxinoc"
+        },
+        {
+            "id": 6,
+            "titulo": "Their Greatest Hits (1971–1975)",
+            "descricao": "Their Greatest Hits (1971–1975) é uma coletânea que reúne os maiores sucessos dos Eagles durante o início de sua carreira. Com faixas icônicas como Take It Easy e Desperado, o álbum capturou a essência do rock country e tornou-se uma referência no gênero.",
+            "ano": 1976,
+            "genero": "Rock/Country",
+            "autor": "Eagles",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/a/a9/Eagles_-_Their_Greatest_Hits_%281971-1975%29.jpg",
+            "link": "https://www.youtube.com/embed/FhH3mRkKDX8"
+        },
+        {
+            "id": 7,
+            "titulo": "Rumours",
+            "descricao": "Rumours é um dos álbuns mais emblemáticos de todos os tempos, refletindo as tensões e os dramas pessoais dentro do Fleetwood Mac. Com sucessos como Go Your Own Way e Dreams, o álbum tornou-se um clássico do rock e uma obra que define uma geração.",
+            "ano": 1977,
+            "genero": "Rock",
+            "autor": "Fleetwood Mac",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG",
+            "link": "https://www.youtube.com/embed/Y3ywicffOj4"
+        },
+        {
+            "id": 8,
+            "titulo": "Saturday Night Fever (Trilha Sonora)",
+            "descricao": "A trilha sonora de Saturday Night Fever é um marco da era disco, com músicas dos Bee Gees que definiram o som dos anos 70. Com sucessos como Stayin' Alive e Night Fever, o álbum se tornou uma das trilhas sonoras mais icônicas e influentes de todos os tempos.",
+            "ano": 1977,
+            "genero": "Disco",
+            "autor": "Bee Gees",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/0/0f/SNF1977.png",
+            "link": "https://www.youtube.com/embed/I_izvAbhExY"
+        },
+        {
+            "id": 9,
+            "titulo": "Come On Over",
+            "descricao": "Come On Over é o álbum que consolidou Shania Twain como a rainha do country pop. Com sucessos como Man! I Feel Like a Woman! e That Don't Impress Me Much, o álbum se tornou um fenômeno global, trazendo o country para o mainstream.",
+            "ano": 1997,
+            "genero": "Country/Pop",
+            "autor": "Shania Twain",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/4/49/Shania_Twain_Come_On_Over.png",
+            "link": "https://www.youtube.com/embed/ZJL4UGSbeFg"
+        },
+        {
+            "id": 10,
+            "titulo": "Led Zeppelin IV",
+            "descricao": "Led Zeppelin IV é um dos álbuns mais icônicos do rock, contendo o épico Stairway to Heaven, uma das músicas mais celebradas de todos os tempos. O álbum combina blues, folk e rock pesado, consolidando o Led Zeppelin como uma das maiores bandas de todos os tempos.",
+            "ano": 1971,
+            "genero": "Rock",
+            "autor": "Led Zeppelin",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
+            "link": "https://www.youtube.com/embed/xbhCPt6PZIU"
+        }
+    ],
+    "rock": [
+        {
+            "id": 11,
+            "titulo": "Back in Black",
+            "descricao": "Back in Black é uma celebração da vida e da música após a morte do vocalista Bon Scott. Com Brian Johnson assumindo os vocais, AC/DC lançou um dos álbuns mais emblemáticos da história do rock. A faixa-título, Back in Black, e outros sucessos como Hells Bells e You Shook Me All Night Long continuam a ser hinos do rock até hoje.",
+            "ano": 1980,
+            "genero": "Rock",
+            "autor": "AC/DC",
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/4/45/Back_In_Black.png",
+            "link": "https://www.youtube.com/embed/pAgnJDJN4VA"
+        },
+        {
+            "id": 12,
+            "titulo": "The Dark Side of the Moon",
+            "descricao": "The Dark Side of the Moon é uma obra-prima progressiva que explora temas como loucura, morte e o conflito humano. Com faixas como Time, Money e Us and Them, o álbum transcende o gênero rock e se tornou um dos trabalhos mais influentes da música.",
+            "ano": 1973,
+            "genero": "Rock Progressivo",
+            "autor": "Pink Floyd",
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d4/Dark_Side_of_the_Moon.png/220px-Dark_Side_of_the_Moon.png",
+            "link": "https://www.youtube.com/embed/DLOth-BuCNY"
+        },
+        {
+            "id": 13,
+            "titulo": "Led Zeppelin IV",
+            "descricao": "Led Zeppelin IV é um dos álbuns mais icônicos do rock, contendo o épico Stairway to Heaven, uma das músicas mais celebradas de todos os tempos. O álbum combina blues, folk e rock pesado, consolidando o Led Zeppelin como uma das maiores bandas de todos os tempos.",
+            "ano": 1971,
+            "genero": "Rock",
+            "autor": "Led Zeppelin",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg",
+            "link": "https://www.youtube.com/embed/xbhCPt6PZIU"
+        },
+        {
+            "id": 14,
+            "titulo": "Rumours",
+            "descricao": "Rumours é um dos álbuns mais emblemáticos de todos os tempos, refletindo as tensões e os dramas pessoais dentro do Fleetwood Mac. Com sucessos como Go Your Own Way e Dreams, o álbum tornou-se um clássico do rock e uma obra que define uma geração.",
+            "ano": 1977,
+            "genero": "Rock",
+            "autor": "Fleetwood Mac",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG",
+            "link": "https://www.youtube.com/embed/Y3ywicffOj4"
+        },
+        {
+            "id": 15,
+            "titulo": "Bat Out of Hell",
+            "descricao": "Bat Out of Hell é um álbum teatral, cheio de energia e paixão, que mistura rock, ópera e drama. Com faixas épicas como Bat Out of Hell e Paradise by the Dashboard Light, o álbum tornou-se um marco no rock e uma obra-prima atemporal.",
+            "ano": 1977,
+            "genero": "Rock",
+            "autor": "Meat Loaf",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/5/5c/Bat_out_of_Hell.jpg",
+            "link": "https://www.youtube.com/embed/_wO8toxinoc"
+        }
+    ],
+    "pop": [
+        {
+            "id": 16,
+            "titulo": "Thriller",
+            "descricao": "Thriller não é apenas o álbum mais vendido de todos os tempos, mas também um marco cultural que definiu a era do videoclipe. Com músicas icônicas como Billie Jean, Beat It e a faixa-título Thriller, Michael Jackson estabeleceu novos padrões para a música pop, combinando elementos de funk, rock, R&B e música eletrônica. O álbum também é conhecido por seu videoclipe revolucionário, que trouxe à tona a popularidade dos vídeos musicais como uma forma de arte.",
+            "ano": 1982,
+            "genero": "Pop",
+            "autor": "Michael Jackson",
+            "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Michael_Jackson_-_Thriller.jpg/220px-Michael_Jackson_-_Thriller.jpg",
+            "link": "https://www.youtube.com/embed/KqUp1uFkDF4"
+        },
+        {
+            "id": 17,
+            "titulo": "The Bodyguard (Trilha Sonora)",
+            "descricao": "A trilha sonora do filme The Bodyguard não só lançou Whitney Houston ao estrelato absoluto, mas também se tornou uma das trilhas sonoras mais vendidas de todos os tempos. A poderosa interpretação de I Will Always Love You se tornou uma das baladas mais icônicas da história da música.",
+            "ano": 1992,
+            "genero": "Pop/R&B",
+            "autor": "Whitney Houston",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/7/74/TheBodyguardSoundtrack.jpg",
+            "link": "https://www.youtube.com/embed/3JWTaaS7LdU"
+        },
+        {
+            "id": 18,
+            "titulo": "Saturday Night Fever (Trilha Sonora)",
+            "descricao": "A trilha sonora de Saturday Night Fever é um marco da era disco, com músicas dos Bee Gees que definiram o som dos anos 70. Com sucessos como Stayin' Alive e Night Fever, o álbum se tornou uma das trilhas sonoras mais icônicas e influentes de todos os tempos.",
+            "ano": 1977,
+            "genero": "Disco",
+            "autor": "Bee Gees",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/0/0f/SNF1977.png",
+            "link": "https://www.youtube.com/embed/I_izvAbhExY"
+        },
+        {
+            "id": 19,
+            "titulo": "Come On Over",
+            "descricao": "Come On Over é o álbum que consolidou Shania Twain como a rainha do country pop. Com sucessos como Man! I Feel Like a Woman! e That Don't Impress Me Much, o álbum se tornou um fenômeno global, trazendo o country para o mainstream.",
+            "ano": 1997,
+            "genero": "Country/Pop",
+            "autor": "Shania Twain",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/4/49/Shania_Twain_Come_On_Over.png",
+            "link": "https://www.youtube.com/embed/ZJL4UGSbeFg"
+        },
+        {
+            "id": 20,
+            "titulo": "Their Greatest Hits (1971–1975)",
+            "descricao": "Their Greatest Hits (1971–1975) é uma coletânea que reúne os maiores sucessos dos Eagles durante o início de sua carreira. Com faixas icônicas como Take It Easy e Desperado, o álbum capturou a essência do rock country e tornou-se uma referência no gênero.",
+            "ano": 1976,
+            "genero": "Rock/Country",
+            "autor": "Eagles",
+            "capa": "https://upload.wikimedia.org/wikipedia/en/a/a9/Eagles_-_Their_Greatest_Hits_%281971-1975%29.jpg",
+            "link": "https://www.youtube.com/embed/FhH3mRkKDX8"
+        }
+    ]
+}

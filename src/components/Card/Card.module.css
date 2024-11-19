@@ -1,0 +1,77 @@
+.card {
+    position: relative;
+    min-width: 300px;
+    min-height: 300px;
+    flex: 0 0 auto;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 2px 4px 16px rgba(0, 0, 0, 1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin-top: 20px;
+    overflow: hidden; /* Garante que o conteúdo dentro do card não transborde */
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.capa {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Garante que a imagem ocupe todo o espaço disponível sem distorcer */
+}
+
+.card-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.3); /* Fundo semi-transparente para destacar o texto */
+    color: rgba(249, 240, 234, 1);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
+}
+.h2{
+        
+
+}
+.h4{
+    margin: 5px;
+    
+
+}
+
+.coracaoWrapper {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 10;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.coracao {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+
+}

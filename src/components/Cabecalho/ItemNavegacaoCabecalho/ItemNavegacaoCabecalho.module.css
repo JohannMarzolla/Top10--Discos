@@ -1,0 +1,22 @@
+/* ItemNavegacaoCabecalho.module.css */
+
+.link {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Centraliza a imagem */
+    background-color: transparent; /* Garante que o fundo do link seja transparente */
+   /* Ajuste de padding, se necessário */
+    max-width: 80px; /* Define o tamanho máximo do container */
+    max-height: 80px; /* Define o tamanho máximo do container */
+    overflow: hidden; /* Garante que nada fora do container seja ocultado */
+    box-sizing: border-box; /* Inclui padding e border na largura e altura totais */
+   
+}
+
+.link img {
+    width: 100%; /* A imagem ocupará toda a largura do container (70px) */
+    height: 100%; /* A imagem ocupará toda a altura do container (70px) */
+    object-fit: cover; /* Garante que a imagem cubra o container sem distorção */
+   
+}
+

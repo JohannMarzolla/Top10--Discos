@@ -1,0 +1,68 @@
+.cabecalho {
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;   
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.imagem {
+    height: 150px;
+    width: 163px;
+    border-radius: 10px;
+   
+}
+
+.titulo {
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+/* Para telas menores que 900px */
+@media (max-width: 900px) {
+    .cabecalho {
+        padding: 20px 40px; /* Ajusta o padding para telas menores */
+    }
+    
+    .nav {
+        gap: 15px; /* Ajusta o espaçamento entre itens de navegação */
+    }
+
+    .imagem {
+        height: 120px; /* Ajusta a altura da imagem */
+        width: 130px; /* Ajusta a largura da imagem */
+    }
+
+    .titulo {
+        font-size: 20px; /* Ajusta o tamanho da fonte */
+    }
+}
+
+/* Para telas menores que 600px */
+@media (max-width: 600px) {
+    .cabecalho {
+        padding: 20px 20px; /* Reduz o padding para telas ainda menores */
+    }
+    .nav {
+        gap: 5px; /* Ajusta o espaçamento entre itens de navegação */
+        width: 100%; /* Garante que a navegação ocupe toda a largura */
+    }
+
+    .imagem {
+        height: 100px; /* Ajusta a altura da imagem */
+        width: 110px; /* Ajusta a largura da imagem */
+    }
+
+    .titulo {
+        font-size: 16px; /* Ajusta o tamanho da fonte */
+    }
+}
+

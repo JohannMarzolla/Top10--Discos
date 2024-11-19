@@ -1,0 +1,16 @@
+.menuLateral {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    width: 100%;
+}
+
+@media(max-width : 600px){
+    .menuLateral{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
